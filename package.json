@@ -24,5 +24,5 @@
 		"related",
 		"freecodecamp"
 	],
-	"package": "~1.3.8"
+	"package": "^1.3.8"
 }
