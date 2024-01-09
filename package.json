@@ -24,5 +24,5 @@
 		"related",
 		"freecodecamp"
 	],
-	"package": "MAJOR.MINOR.PATCH"
+	"package": "~1.3.8"
 }
