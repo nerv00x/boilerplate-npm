@@ -6,7 +6,6 @@
 	"dependencies": {
 		"@freecodecamp/example": "1.1.0",
 		"express": "4.14.0"
-		
 	},
 	"main": "server.js",
 	"scripts": {
@@ -24,5 +23,6 @@
 		"descriptive",
 		"related",
 		"freecodecamp"
-	]
+	],
+	"package": "MAJOR.MINOR.PATCH"
 }
